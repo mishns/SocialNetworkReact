@@ -1,0 +1,62 @@
+{
+  "1efd4999-66c4-45bb-8cc6-380f502ac6e0": {
+    "id": "1efd4999-66c4-45bb-8cc6-380f502ac6e0",
+    "text": "Привет!",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704667927784
+  },
+  "cb1ba1bd-1456-4e83-84f7-d713466dee21": {
+    "id": "cb1ba1bd-1456-4e83-84f7-d713466dee21",
+    "text": "Как дела?",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704668049395
+  },
+  "5500d6e3-ae06-4a73-9a68-48062ccf0c2d": {
+    "id": "5500d6e3-ae06-4a73-9a68-48062ccf0c2d",
+    "text": "Неплохо :)",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901834902
+  },
+  "35b6baa1-4f41-4886-89bf-20dd83b78364": {
+    "id": "35b6baa1-4f41-4886-89bf-20dd83b78364",
+    "text": "А ты как?",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901870088
+  },
+  "1787b5ed-6828-44d6-aa65-01e52e262140": {
+    "id": "1787b5ed-6828-44d6-aa65-01e52e262140",
+    "text": "asdfasdfsadgasfghasgasdfasdfasdfasdf",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710433421368
+  },
+  "4faa00f4-99e6-4040-90d1-38c34614966e": {
+    "id": "4faa00f4-99e6-4040-90d1-38c34614966e",
+    "text": "sadgasfhaergasdfasdfasdf",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710433858789
+  },
+  "0795baf5-4d1d-4690-9aaf-0ec189a4016f": {
+    "id": "0795baf5-4d1d-4690-9aaf-0ec189a4016f",
+    "text": "fdasdfasdfsfgasfasdfwe",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710434453715
+  },
+  "d6010087-830f-4541-baf9-f99007da1e22": {
+    "id": "d6010087-830f-4541-baf9-f99007da1e22",
+    "text": "asdgsadfgagawdfs",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710491041286
+  },
+  "7d3668b3-e53c-4178-a19f-7fe8ac6f8eda": {
+    "id": "7d3668b3-e53c-4178-a19f-7fe8ac6f8eda",
+    "text": "gasgdasdfasdf",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710492756939
+  },
+  "3d1b2652-6bd3-4307-8001-aeedc2075f79": {
+    "id": "3d1b2652-6bd3-4307-8001-aeedc2075f79",
+    "text": "asdfsadfasfgafasefd",
+    "authorId": "14c978e1-90b2-4725-b7fe-3c78d2b74a60",
+    "createdAt": 1710501663502
+  }
+}

@@ -1,0 +1,13 @@
+.segmentedSwitchOption {
+  border: none;
+  padding: 10px;
+  background-color: var(--color__secondary);
+  color: black;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.segmentedSwitchOption[data-active='true'] {
+  background-color: var(--color__primary);
+  color: var(--color__background);
+}

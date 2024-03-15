@@ -1,0 +1,8 @@
+.app {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  gap: 16px;
+}

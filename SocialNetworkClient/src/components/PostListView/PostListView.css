@@ -1,0 +1,23 @@
+.postList {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+}
+
+@keyframes appearance {
+  from {
+    opacity: 0;
+    scale: 0.9;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.postList__item {
+  animation: appearance 0.5s ease-out forwards;
+}

@@ -1,0 +1,36 @@
+.postForm {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.postForm__field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.postForm__label {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: black;
+  font-family: sans-serif;
+}
+
+.postForm__input {
+  height: 72px;
+}
+
+.postForm__submit {
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color__text);
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: var(--color__secondary);
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+}
